@@ -1,15 +1,32 @@
-# 📚 AI Tools: Potential Misuse and Countermeasures
+# 🎓 AI in Education: Technology, Misuse, and Countermeasures
 
-A catalogue of AI tools, misuses, and countermeasures.
+This repository explores how AI tools are reshaping education from **two perspectives**:  
+1. **Risks and Misuse** – How students might use AI to bypass authentic learning.  
+2. **Guardrails and Pedagogy** – Strategies, tools, and redesigned assessments teachers can adopt to promote integrity and genuine learning.  
 
-| **AI Functionality** | **Examples of Tools** | **How it can Enhance Learning** | **How Students Might Misuse It** | **Potential Countermeasures for Teachers** |
-|-----------------------|------------------------|---------------------------------|----------------------------------|--------------------------------------------|
-| **Video Generation** | HeyGen, Synthesia, Rephrase.ai | Can be used to practice public speaking in a safe environment; to create multilingual presentations; or to demonstrate accessibility tools for learners with speech or mobility challenges. | Students can generate realistic avatar videos (of themselves or others) that appear to explain concepts or present work, without actually understanding the content. | Require a live Q&A session or oral defense after video submissions; ask for script drafts or outlines; assign short in-class presentations to compare with AI-generated ones. |
-| **Text Generation** | ChatGPT, Claude, Gemini | Can serve as a brainstorming partner; provide feedback on drafts; suggest alternative structures or examples; help students overcome writer’s block. | Students may offload entire essays, reflections, or creative pieces, presenting AI-written text as their own work without engaging in the cognitive process of writing. | Use process-based assignments (outlines, annotated drafts, revision logs); compare with in-class writing to establish a “voice sample”; integrate oral reflections on the writing process. |
-| **Paraphrasing** | QuillBot, Paraphraser.ai | Helpful for English language learners to experiment with alternative phrasing; supports vocabulary development and stylistic variation. | Students can rephrase AI-generated or plagiarized content to avoid plagiarism detection and make it appear “original.” | Require citations for all paraphrased material; ask for direct engagement with sources (e.g., annotated bibliography); assign critical thinking tasks that go beyond surface-level rewording. |
-| **Process Automation** | Duey.ai AutoTyper | Could help students with motor impairments to type text dictated through speech-to-text, making drafting more accessible. | Automatically types or pastes AI-generated text into Google Docs, producing a falsified document history to mislead instructors. | Use process-tracking tools (e.g., ProcessFeedback.org, Grammarly Authorship, Draftback) to review genuine writing history; assign reflective process logs where students explain their drafting choices. |
-| **Editing / Writing Assistance** | Grammarly, GrammarlyGO, Wordtune | Can improve grammar, clarity, and conciseness; useful for learning editing strategies; supports multilingual students in adjusting tone and register. | Students can heavily rewrite or polish AI-generated text so that it passes as their own work and disguises AI authorship. | Make tool use transparent in assignment instructions; require students to identify what feedback they accepted or rejected; assign reflective commentary on editing decisions. |
-| **Image Generation** | MidJourney, DALL·E, Stable Diffusion | Useful for rapid prototyping of ideas; supports creative brainstorming; allows non-artists to visualize concepts for presentations and projects. | Students can generate diagrams, infographics, or creative works without engaging in the underlying research, design, or conceptual process. | Require students to submit sketches, drafts, or rationale for design choices; include reflective statements explaining how visuals support their ideas; combine with oral explanations of methodology. |
-| **Code Generation** | GitHub Copilot, Replit Ghostwriter, ChatGPT for Code | Can help students learn coding syntax faster; provide examples of alternative solutions; act as an assistant during debugging. | Students may submit fully AI-generated programs without understanding algorithms, logic, or debugging processes. | Use in-class coding exercises and live code reviews; require students to annotate and explain their code; include oral or written “code walk-throughs.” |
-| **Research Assistance** | Perplexity, Elicit, Consensus | Can help students identify relevant literature; provide starting points for research questions; assist with structuring bibliographies. | Students can generate AI-written summaries of scholarly work and bypass actually reading or engaging with sources. | Require annotated bibliographies with direct quotes from original texts; assign reading quizzes or discussions; emphasize synthesis tasks that cannot be done from summaries alone. |
-| **AI Detection Evasion** | Undetectable.ai, Humanize Tools | Could be ethically applied in accessibility contexts where overly formal AI text needs to be rephrased into more natural, human-like prose. | Students may use “humanizer” tools to rework AI text so that it avoids detection by Turnitin, GPTZero, or other AI detectors. | Do not rely solely on AI detectors; triangulate authorship with process evidence, in-class samples, and oral questioning; frame detection use as non-punitive but supportive of 
+The goal is to provide educators with **practical resources** to protect academic integrity while also fostering **responsible, creative uses of AI** in the classroom.
+
+---
+
+## 📑 Contents
+
+- [AI Tools in Education](AI Tools in Education.md)  
+- [Redesign Evaluations](Redesign Evaluations.md)  
+
+---
+
+## 🤝 Contributing
+
+Educators, researchers, and technologists are welcome to contribute by:  
+- Adding new AI tools.  
+- Sharing pedagogical redesign strategies.  
+- Submitting real-world case studies or examples.  
+
+---
+
+## 📜 License
+
+This project is shared under the **CC BY-NC 4.0 License**.  
+You’re free to use and adapt the content for non-commercial purposes, with attribution.  
+This work is inspired by ongoing discussions in the education and AI community.
+
