@@ -1,5 +1,7 @@
 # 📚 AI Tools in Education: Potential Misuse and Countermeasures
 
+A practical map of how students might misuse AI tools, how these tools can also enhance learning, and what countermeasures teachers can apply.
+
 | **AI Functionality** | **Examples of Tools** | **How it can Enhance Learning** | **How Students Might Misuse It** | **Potential Countermeasures for Teachers** |
 |-----------------------|------------------------|---------------------------------|----------------------------------|--------------------------------------------|
 | **Video Generation** | HeyGen, Synthesia, Rephrase.ai | Can be used to practice public speaking in a safe environment; to create multilingual presentations; or to demonstrate accessibility tools for learners with speech or mobility challenges. | Students can generate realistic avatar videos (of themselves or others) that appear to explain concepts or present work, without actually understanding the content. | Require a live Q&A session or oral defense after video submissions; ask for script drafts or outlines; assign short in-class presentations to compare with AI-generated ones. |
