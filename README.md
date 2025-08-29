@@ -1,4 +1,4 @@
-# 🎓 AI in Education: Technology, Misuse, and Countermeasures
+# 🎓 AI for Education: Technology, Misuse, and Countermeasures
 
 This repository explores how AI tools are reshaping education from **two perspectives**:  
 1. **Risks and Misuse** – How students might use AI to bypass authentic learning.  
