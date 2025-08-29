@@ -1,6 +1,6 @@
 # 🌐 Directory of Alternative Technologies
 
-A directory to reduce dependency on dominant tech services, foster more diverse, private, and resilient technology ecosystems by using international or more private and secure alternatives.  
+A directory designed to reduce dependency on dominant tech platforms by highlighting international, privacy-first, and secure alternatives that foster more diverse, resilient, and sovereign digital ecosystems.
 
 ## 🔍 Search Engines
 
