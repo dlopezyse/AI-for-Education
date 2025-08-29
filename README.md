@@ -6,23 +6,17 @@ This repository explores how AI tools are reshaping education from **two perspec
 
 The goal is to provide educators with **practical resources** to protect academic integrity while also fostering **responsible, creative uses of AI** in the classroom.
 
----
-
 ## 📑 Contents
 
-- [AI Tools in Education](AI Tools in Education.md)  
-- [Redesign Evaluations](Redesign Evaluations.md)  
-
----
-
+- [Redesign Evaluations](https://github.com/dlopezyse/edu-ai-hacks/blob/main/Redesign%20Evaluations.md) 
+- [AI Tools in Education](https://github.com/dlopezyse/edu-ai-hacks/blob/main/AI%20Tools%20in%20Education.md)  
+ 
 ## 🤝 Contributing
 
 Educators, researchers, and technologists are welcome to contribute by:  
 - Adding new AI tools.  
 - Sharing pedagogical redesign strategies.  
 - Submitting real-world case studies or examples.  
-
----
 
 ## 📜 License
 
