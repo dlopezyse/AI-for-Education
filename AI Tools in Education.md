@@ -1,4 +1,4 @@
-# AI Tools in Education: Potential Misuse and Countermeasures
+# 📚 AI Tools in Education: Potential Misuse and Countermeasures
 
 | **AI Functionality** | **Examples of Tools** | **How it can Enhance Learning** | **How Students Might Misuse It** | **Potential Countermeasures for Teachers** |
 |-----------------------|------------------------|---------------------------------|----------------------------------|--------------------------------------------|
