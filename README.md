@@ -11,7 +11,7 @@ This project seeks to ensure that education remains a transformative force in so
 
 - ✅ [Redesign Evaluations](https://github.com/dlopezyse/edu-ai-hacks/blob/main/Redesign%20Evaluations.md) -> *Strategies to design authentic, process-focused assessments that are resilient to AI misuse and foster deeper, contextual learning.*
 - 📚 [AI Tools in Education](https://github.com/dlopezyse/edu-ai-hacks/blob/main/AI%20Tools%20in%20Education.md) -> *A practical map of how students might misuse AI tools, how these tools can also enhance learning, and what countermeasures teachers can apply.*
-- 🌐 [Directory of Alternative Technologies](https://github.com/dlopezyse/AI-for-Education/blob/main/Directory%20of%20Alternative%20Technologies.md) -> *A directory designed to reduce dependency on dominant tech platforms by highlighting international, privacy-first, and secure alternatives that foster more diverse, resilient, and sovereign digital ecosystems.*
+- 🌐 [Directory of Alternative Technologies](https://github.com/dlopezyse/AI-for-Education/blob/main/Directory%20of%20Alternative%20Technologies.md) -> *A directory designed to reduce dependency on dominant tech platforms that shape how we learn, highlighting international, privacy-first, and secure alternatives. Its goal is to foster more diverse, resilient, and sovereign digital ecosystems as a foundation for true cognitive sovereignty in education.*
  
 ## 🤝 Contributing
 
