@@ -1,4 +1,4 @@
-# 🤖 AI for Education
+# AI for Education
 
 This repo explores the opportunities and challenges of integrating AI into Education.
 
