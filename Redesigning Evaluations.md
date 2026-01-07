@@ -1,4 +1,4 @@
-# ✅ Redesign Evaluations
+# ✅ Redesigning Evaluations
 
 General pedagogical redesign strategies that future-proof evaluations against AI misuse.
 
