@@ -1,4 +1,4 @@
-# 📚 AI Tools in Education: Potential Misuse and Countermeasures
+# 🚩 AI Misuse and Countermeasures
 
 A practical map of how students might misuse AI tools, how these tools can also enhance learning, and what countermeasures teachers can apply.
 
