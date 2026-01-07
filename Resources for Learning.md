@@ -17,5 +17,5 @@ This is a collection of tools to bridge the gap between theory and practice, all
 - **[Seeing Theory](https://seeing-theory.brown.edu/)**
   *A visual introduction to probability and statistics from Brown University. It turns dry formulas into interactive, visual experiments.*
 
-- **[Visual Information (Chris Olah)](https://colah.github.io/posts/2015-09-Visual-Information/)**
+- **[Visual Information](https://colah.github.io/posts/2015-09-Visual-Information/)**
   *Christopher Olah’s legendary visual essays on machine learning and information theory. He explains complex mathematical concepts through intuitive geometry and visualization.*
