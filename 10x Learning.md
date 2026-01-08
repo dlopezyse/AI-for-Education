@@ -1,6 +1,8 @@
-# 🧪 Resources for Learning
+# 🚀 10x Learning
 
 This is a collection of tools to bridge the gap between theory and practice, allowing you to play with concepts and observe real-time consequences.
+
+### Visualization
 
 - **[LLM Visualization](https://bbycroft.net/llm)**
   *A stunning 3D interactive walk-through of a Large Language Model architecture, showing exactly how data flows through the layers.*
@@ -19,3 +21,9 @@ This is a collection of tools to bridge the gap between theory and practice, all
 
 - **[Visual Information](https://colah.github.io/posts/2015-09-Visual-Information/)**
   *Christopher Olah’s legendary visual essays on machine learning and information theory. He explains complex mathematical concepts through intuitive geometry and visualization.*
+
+  ### Learning Faster
+
+  - https://x.com/karpathy/status/1990577951671509438
+  - https://www.longcut.ai/
+  - The Science of Rapid Skill Acquisition
