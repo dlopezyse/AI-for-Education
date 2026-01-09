@@ -4,6 +4,15 @@ This is a collection of resources to accelerate learning, allowing you to improv
 
 ### Visualization Tools
 
+- **[The Ultimate Guide to AI Infographics](https://www.controlaltachieve.com/2025/11/infographics.html)**
+  *A comprehensive guide by Control Alt Achieve on leveraging Gemini to create educational infographics. It covers specific prompt engineering techniques to generate accurate visual summaries, timelines, and flowcharts for classroom use.*
+
+- **[Seeing Theory](https://seeing-theory.brown.edu/)**
+  *A visual introduction to probability and statistics from Brown University. It turns dry formulas into interactive, visual experiments.*
+
+- **[Visual Information](https://colah.github.io/posts/2015-09-Visual-Information/)**
+  *Christopher Olah’s legendary visual essays on machine learning and information theory. He explains complex mathematical concepts through intuitive geometry and visualization.*
+
 - **[LLM Visualization](https://bbycroft.net/llm)**
   *A stunning 3D interactive walk-through of a Large Language Model architecture, showing exactly how data flows through the layers.*
 
@@ -15,13 +24,7 @@ This is a collection of resources to accelerate learning, allowing you to improv
 
 - **[NN-SVG](https://alexlenail.me/NN-SVG/AlexNet.html)**
   *A tool to interactively design and export SVG illustrations of Neural Network architectures. It helps visualize the scale and connectivity of classic models like AlexNet and LeNet.*
-
-- **[Seeing Theory](https://seeing-theory.brown.edu/)**
-  *A visual introduction to probability and statistics from Brown University. It turns dry formulas into interactive, visual experiments.*
-
-- **[Visual Information](https://colah.github.io/posts/2015-09-Visual-Information/)**
-  *Christopher Olah’s legendary visual essays on machine learning and information theory. He explains complex mathematical concepts through intuitive geometry and visualization.*
-
+  
 ### Learn Faster
 
 - **[Andrej Karpathy's Learning Technique](https://x.com/karpathy/status/1990577951671509438)**
