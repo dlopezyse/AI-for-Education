@@ -22,8 +22,16 @@ This is a collection of resources to accelerate learning, allowing you to improv
 - **[Visual Information](https://colah.github.io/posts/2015-09-Visual-Information/)**
   *Christopher Olah’s legendary visual essays on machine learning and information theory. He explains complex mathematical concepts through intuitive geometry and visualization.*
 
-### Learning Faster
+### Learn Faster
 
-  - https://x.com/karpathy/status/1990577951671509438
-  - https://www.longcut.ai/
-  - The Science of Rapid Skill Acquisition
+
+### Learn Faster
+
+- **[Andrej Karpathy's Learning Philosophy](https://x.com/karpathy/status/1990577951671509438)**
+  *A practical workflow for using LLMs to deepen reading comprehension. Karpathy outlines his "three-pass" technique—manual reading, AI summarization, and interactive Q&A—to transform passive consumption into active, high-retention learning.*
+
+- **[Longcut.ai](https://www.longcut.ai/)**
+  *A search engine and discovery platform specifically tuned for high-quality AI learning resources. It cuts through the noise of generic content, helping you find the best tutorials, papers, and guides to accelerate your specific learning path.*
+
+- **[The Science of Rapid Skill Acquisition](https://www.amazon.com/Science-Rapid-Skill-Acquisition-Information-ebook/dp/B07NS6QNSR)**
+  *A deep dive into the neurology and psychology of learning. This resource deconstructs the process of mastery into actionable steps—such as deliberate practice and gamification—providing a blueprint to absorb complex information and skills in record time.*
