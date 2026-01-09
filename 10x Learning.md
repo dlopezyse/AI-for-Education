@@ -1,6 +1,6 @@
 # 🚀 10x Learning
 
-This is a collection of tools to bridge the gap between theory and practice, allowing you to play with concepts and observe real-time consequences.
+This is a collection of resources to accelerate learning, allowing you to improve skill acquisition, play with concepts, and observe real-time consequences.
 
 ### Visualization
 
