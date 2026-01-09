@@ -24,7 +24,7 @@ This is a collection of resources to accelerate learning, allowing you to improv
 
 ### Learn Faster
 
-- **[Andrej Karpathy's Learning Philosophy](https://x.com/karpathy/status/1990577951671509438)**
+- **[Andrej Karpathy's Learning Technique](https://x.com/karpathy/status/1990577951671509438)**
   *A practical workflow for using LLMs to deepen reading comprehension. Karpathy outlines his "three-pass" technique—manual reading, AI summarization, and interactive Q&A—to transform passive consumption into active, high-retention learning.*
 
 - **[Longcut.ai](https://www.longcut.ai/)**
