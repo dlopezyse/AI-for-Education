@@ -2,7 +2,7 @@
 
 This is a collection of resources to accelerate learning, allowing you to improve skill acquisition, play with concepts, and observe real-time consequences.
 
-### Visualization
+### Visualization Tools
 
 - **[LLM Visualization](https://bbycroft.net/llm)**
   *A stunning 3D interactive walk-through of a Large Language Model architecture, showing exactly how data flows through the layers.*
